@@ -138,4 +138,4 @@ function initRouting() {
     const routingControl = L.control({position: 'topright'});
     routingControl.onAdd = function(map) {
         const div = L.DomUtil.create('div', 'routing-control');
-        div.innerHTML = `
+        div.innerHTML = ``}}
